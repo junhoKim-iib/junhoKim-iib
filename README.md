@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Junho's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhoKim-iib)](https://github.com/junhoKim-iib/github-readme-stats)
 <!--
 **junhoKim-iib/junhoKim-iib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
