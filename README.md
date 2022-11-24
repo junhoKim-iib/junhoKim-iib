@@ -1,12 +1,21 @@
 ### Hi there 👋
 ---
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=junhoKim-iib&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhoKim-iib&hide_border=true&layout=compact" align="left" style="width: 100%" />
-</td></tr></table>  
 
+<!--  original code. [ ](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance) -->
+
+<!-- [![junhoKim-iib's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhoKim-iib&count_private=true&theme=transparent)](https://github.com/junhoKim-iib/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhoKim-iib&layout=compact)](https://github.com/junhoKim-iib/github-readme-stats)
+
+ -->
+
+
+<a href="https://github.com/junhoKim-iib/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=junhoKim-iib&count_private=true&theme=transparent" />
+</a>
+<a href="https://github.com/junhoKim-iib/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhoKim-iib&layout=compact" />
+</a>
 
 
 
