@@ -11,10 +11,10 @@
 
 
 <a href="https://github.com/junhoKim-iib/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=junhoKim-iib&count_private=true&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=junhoKim-iib&count_private=true&theme=transparent" />
 </a>
 <a href="https://github.com/junhoKim-iib/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhoKim-iib&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhoKim-iib&layout=compact" />
 </a>
 
 
