@@ -18,7 +18,7 @@
 </a>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={deeptoo2})](https://solved.ac/{deeptoo2})
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=deeptoo2)](https://solved.ac/deeptoo2)
 <!--
 **junhoKim-iib/junhoKim-iib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
