@@ -17,8 +17,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhoKim-iib&layout=compact" />
 </a>
 
-
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={junhoKim-iib})](https://solved.ac/{junhoKim-iib})
 <!--
 **junhoKim-iib/junhoKim-iib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
