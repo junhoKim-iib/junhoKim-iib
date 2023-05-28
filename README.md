@@ -1,7 +1,18 @@
+
 <div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Junho's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&height=250) -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Junho's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&height=250)
 
+<h3>🌎 Junho Kim's Github 🌏</h3><br/>
+Hello, I'm junho.<br/>
+A developer growing alongside the code.<br/>
+
+<br/><br/>
+
+  
+  
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -31,7 +42,9 @@
 
  -->
 
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 </div>
+
 
 
 
