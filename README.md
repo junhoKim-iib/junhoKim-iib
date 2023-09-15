@@ -7,7 +7,7 @@
 
 <h3>🌎 Junho Kim's Github 🌏</h3><br/>
 Hello, I'm junho.<br/>
-A developer growing alongside the code.<br/>
+I'm a developer who grows alongside the code.<br/>
 
 <br/><br/>
 
