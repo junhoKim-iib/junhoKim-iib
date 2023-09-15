@@ -29,18 +29,8 @@ A developer growing alongside the code.<br/>
 
 
 
-
+ [![junho's github stats](https://github-readme-stats.vercel.app/api?username=junhoKim-iib&count_private=true&hide=stars&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/junhoKim-iib/github-readme-stats)
   
-  
- <a href="https://github.com/junhoKim-iib/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=junhoKim-iib&count_private=true&theme=onedark&layout=compact" >
-</a>
-
-<!-- <a href="https://github.com/junhoKim-iib/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhoKim-iib&layout=compact" />
-</a>
-
- -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 </div>
