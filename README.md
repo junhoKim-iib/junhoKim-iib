@@ -26,9 +26,9 @@
 
 
 
-
+<!--
  [![junho's github stats](https://github-readme-stats.vercel.app/api?username=junhoKim-iib&count_private=true&hide=stars&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/junhoKim-iib/github-readme-stats)
-  
+  -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 </div>
